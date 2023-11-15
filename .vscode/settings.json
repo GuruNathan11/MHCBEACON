@@ -1,0 +1,12 @@
+{
+    "debug.hideLauncherWhileDebugging": false,
+    "launch": {
+
+        "configurations": [],
+        "compounds": []
+    },
+    "json.schemas": [
+
+    ],
+    "accessibility.hideAccessibleView": false
+}
